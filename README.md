@@ -3,7 +3,7 @@
 - 🌱 My name is Youssef Sahli, I'm a Software engineering and Full-stack web student at Holberton School.
 - ✨ I am passionate person when it comes to software and web development. A positive creative individual
 with a smile. I am a grateful person in every little thing.
-- 📝 [Here is my Resume](/Youssef Sahli-Web Developer 2021.pdf)
+- 📝 [Here is my Resume](./Youssef Sahli-Web Developer 2021.pdf)
 
 ### Languages and Tools that I have been learning:
 
