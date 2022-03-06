@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love workout / play video games
 - ✨ I'm a passionate person when it comes to web development
-- 📝 [Here is my Resume](/Youssef%20Sahli-Web%20Developer%202022.pdf)
+- 📝 [Here is my Resume](/Youssef%20Sahli%20-%20Web%20Developer%202022.pdf)
 
 ### Connect with me:
 
@@ -51,9 +51,12 @@
 <br />
 
 ---
+
+<br />
 <br />
 
-  <img align="left" width="47%" alt="youssef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=myduzo&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="center" alt="youssef's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myduzo&layout=compact" />
 
-  <img align="left" width="47%" alt="youssef's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myduzo&layout=compact" />
+  <img align="left" alt="youssef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=myduzo&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 
