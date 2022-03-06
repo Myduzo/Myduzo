@@ -1,56 +1,58 @@
-### Hello there! 👋
+# Hi there, I'm Youssef! 👋
 
-- 🌱 My name is Youssef Sahli, I'm a Software engineering and Full-stack web student at Holberton School.
-- ✨ I am passionate person when it comes to software and web development. A positive creative individual
-with a smile. I am a grateful person in every little thing.
-- 📝 [Here is my Resume](/Youssef%20Sahli-Web%20Developer%202021.pdf)
+## I'm a Software Engineer and Full Stack Web Developer
 
-### Languages and Tools that I have been learning:
+- 🌱 I'm currently learning everything 🤣
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love workout / play video games
+- ✨ I'm a passionate person when it comes to web development
+- 📝 [Here is my Resume](/Youssef%20Sahli-Web%20Developer%202022.pdf)
 
-<a href="https://github.com/MatriMariem/holbertonschool-low_level_programming">
-  <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
-</a>
+### Connect with me:
 
-<a href="https://github.com/MatriMariem/holbertonschool-higher_level_programming">
-  <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-</a>
-<a href="https://github.com/MatriMariem/AirBnB_clone_v4/blob/master/api/v1/app.py">
-  <img align="left" alt="flask" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" />
-</a>
-<a href="https://github.com/MatriMariem/holberton-headphones">
-  <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</a>
-<a href="https://github.com/MatriMariem/holberton-headphones">
-  <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</a>
-<a href="https://github.com/MatriMariem/holbertonschool-web_front_end">
-  <img align="left" alt="sass" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" />
-</a>
-<a href="https://github.com/MatriMariem/holbertonschool-web_front_end">
-  <img align="left" alt="bootstrap" width="50px" height="50px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
-</a>
-<a href="https://github.com/MatriMariem/holbertonschool-web_back_end">
-  <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</a>
-<a href="https://github.com/MatriMariem/holberton-smiling-school-javascript/blob/master/xml-scripts.js">
-  <img align="left" alt="jquery" width="50px" src="https://generic-ui.com/assets/images/platform-logos/jquery.logo.jpg" />
-</a>
-<a href="https://github.com/MatriMariem/holbertonschool-web_back_end">
-  <img align="left" alt="es6" width="50px" src="https://codus.acyclique.com/wp-content/uploads/2017/11/ES6-JS.png" />
-</a>
-<a href="https://github.com/MatriMariem/holbertonschool-web_back_end/tree/master/0x12-Node_JS_basic">
-  <img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</a>
-<a href="https://github.com/MatriMariem/holbertonschool-web_back_end/tree/master/0x0C-MySQL_Advanced">
-  <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
-</a>
-<a href="https://github.com/MatriMariem/holbertonschool-web_back_end/tree/master/0x0D-NoSQL">
-  <img align="left" alt="mongodb" width="50px" height="50px" src="https://www.codeline.fr/wp-content/uploads/2018/03/mongo-db-design.png" />
-</a>
-<a href="https://github.com/MatriMariem/holbertonschool-zero_day">
-  <img align="left" alt="git" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</a>
-<a href="https://github.com/MatriMariem/holberton-system_engineering-devops">
-  <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-</a>
+[![website](./img/globe-light.svg)](https://myduzo.github.io#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://myduzo.github.io#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/youssef-sahli#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/youssef-sahli#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/yousef_sahli#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/yousef_sahli#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/facebook-light.svg)](https://www.facebook.com/youssef.shados#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://www.facebook.com/youssef.shados#gh-dark-mode-only)
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Next.js" width="26px" src="./img/nextjs.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="figma" width="18px" src="./img/figma.svg" style="padding-right:10px;" />
+<img align="left" alt="photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_Mobile_icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+
+<br />
+<br />
+
+---
+
+<br />
+<br />
+
+  <img align="left" alt="youssef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=myduzo&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<img align="left" alt="youssef's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myduzo&layout=compact" />
+
 
